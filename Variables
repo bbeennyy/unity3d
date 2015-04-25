@@ -1,0 +1,10 @@
+using namespace std
+
+public class Variables:MonoBehavior{
+
+    public float speed;
+    public int myAge;
+    public bool isCool = true;
+    
+
+}
