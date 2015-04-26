@@ -1,4 +1,6 @@
-using namespace std
+using UnityEngine;
+using System.Collections;
+
 
 public class Variables:MonoBehavior{
 
